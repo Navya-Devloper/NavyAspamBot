@@ -17,6 +17,6 @@ No Requirement of API ID and API HASH
 
 
 ## Support Group
-   - Join [8x Support Group](https://t.me/tag_fban) for any assistance.
+   - Join [8x Support Group](https://t.me/clan8xofficial) for any assistance.
 ## Credits
    - Thanks to [Navya Team](https://t.me/tag_fban).
