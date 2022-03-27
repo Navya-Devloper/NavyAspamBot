@@ -934,7 +934,7 @@ else:
         ddk.run_until_disconnected()
     except Exception as e:
         pass
-© 2022 GitHub, Inc.
+    GitHub, Inc.
 Terms
 Privacy
 Security
